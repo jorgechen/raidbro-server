@@ -1,4 +1,5 @@
 var async = require('async');
+var querystring = require('querystring');
 var fs = require('fs');
 var BNET_API_KEY = require('./secret').BNET_API_KEY;
 var bnet = require('battlenet-api')(BNET_API_KEY);
@@ -46,22 +47,12 @@ bnet.wow.pvp.leaderboards(
 
       var characters = [];
       for (var realm in uniqueCharactersInRealms) {
-
-        // Create a directory for the server
-        var directory = DIR + '/' + realm;
-        console.log('mkdir ' + directory);
-        try {
-          fs.mkdirSync(directory);
-        }
-        catch (exception) {
-          // ignore if folder already exists
-        }
-
         for (var name in uniqueCharactersInRealms[realm]) {
           characters.push({name: name, realm: realm});
         }
       }
 
+      console.log('Players found: ' + characters.length);
       processItemsOnEachCharacter(characters);
     }
   }
@@ -73,7 +64,7 @@ function processItemsOnEachCharacter(characters) {
   var data = {};
 
   async.eachSeries(
-    characters,
+    characters,//.slice(0, 200), //TODO get all
     function (character, callback) {
 
       // Get the items for this character
@@ -81,43 +72,62 @@ function processItemsOnEachCharacter(characters) {
         {
           origin: REGION,
           realm: character.realm,
-          name: character.name
+          name: querystring.escape(character.name)
         },
         function (error, response) {
           if (error) {
             console.error(error);
           }
-          else {
+          else if (response && response.items) {
             // Look at each equipped item
             for (var slot in response.items) {
               var item = response.items[slot];
               var id = item.id;
 
-              if (0 === item.name.indexOf('Wild Gladiator')){
+              if (-1 !== ['averageItemLevel', 'averageItemLevelEquipped'].indexOf(slot)) {
+              }
+              else if (0 === item.name.indexOf('Wild Gladiator')
+                && -1 !== ['trinket1', 'trinket2'].indexOf(slot)) { //TODO remove
                 // Found a Warlords S2 conquest gear!
                 if (data[id]) {
                   data[id].count++;
                   data[id].owners.push(character);
                 }
                 else {
-                  data.push({
+                  data[id] = {
+                    name: item.name,
+                    quality: item.quality,
+                    itemLevel: item.itemLevel,
                     count: 1,
                     slot: slot,
                     owners: [ character ]
-                  })
+                  };
                 }
               }
 
             }
+
+            console.log(JSON.stringify(character));
           }
+          else {
+            console.error('Nothing for ' + JSON.stringify(character));
+          }
+
           callback();
         }
       );
 
+    },
+    function onFinish(error) {
+      if (error) {
+        console.error(error);
+      }
+      else {
+        saveToFile('warlords-s2-conquest.json', data);
+      }
     }
   );
 
-  saveToFile('warlords-s2-conquest.json', data);
 }
 
 

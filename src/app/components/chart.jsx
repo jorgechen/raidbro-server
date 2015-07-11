@@ -2,23 +2,10 @@ let React = require('react');
 let mui = require('material-ui');
 let Table = mui.Table;
 
-
 let Chart = React.createClass({
   getInitialState: function(rowData) {
-    rowData = rowData || [
-      {selected: true, id: {content: '1'}, name: {content: 'John Smith'}, status: {content: 'Employed'}},
-      {id: {content: '2'}, name: {content: 'Randal White'}, status: {content: 'Unemployed'}},
-      {selected: true, id: {content: '3'}, name: {content: 'Stephanie Sanders'}, status: {content: 'Employed'}},
-      {id: {content: '4'}, name: {content: 'Steve Brown'}, status: {content: 'Employed'}},
-      {id: {content: '5'}, name: {content: 'Joyce Whitten'}, status: {content: 'Employed'}},
-      {id: {content: '6'}, name: {content: 'Samuel Roberts'}, status: {content: 'Unemployed'}},
-      {id: {content: '7'}, name: {content: 'Adam Moore'}, status: {content: 'Employed'}},
-      {id: {content: '8'}, name: {content: 'Robert Brown'}, status: {content: 'Employed'}},
-      {id: {content: '9'}, name: {content: 'Elizabeth Stevenson'}, status: {content: 'Employed'}},
-      {id: {content: '11'}, name: {content: 'Zachary Dobb'}, status: {content: 'Employed'}}
-    ];
+    rowData = rowData || [];
 
-    // this.state
     return {
       fixedHeader: true,
       fixedFooter: true,
@@ -28,33 +15,64 @@ let Chart = React.createClass({
       multiSelectable: false,
       canSelectAll: false,
       deselectOnClickaway: true,
-      height: '300px',
+      // height: '300px',
       rowData: rowData
     };
   },
 
   componentDidMount: function () {
+
+    // Load the actual data
+    let data = require('../../../warlords-s2-conquest.json');
+
+    var rowData = [];
+
+    for (let itemId in data) {
+      let item = data[itemId];
+
+      let href = "http://www.wowhead.com/item=" + itemId;
+      let prettyName = <a target="_blank" href={href} class="q4">{item.name}</a>;
+
+      let characters = item.owners.map(function (i) {
+        return (
+          <a href={'http://us.battle.net/wow/en/character/' + i.realm + '/' + i.name + '/advanced'} target="_blank">{i.name}</a>
+        );
+      });
+
+      rowData.push({
+        name: {content: prettyName},
+        count: {content: item.count},
+        slot: {content: item.slot},
+        characters: {content: characters}
+      })
+    }
+
+    let newState = this.getInitialState(rowData);
+    this.setState(newState);
   },
 
   render: function() {
     // Column configuration
     let headerCols = {
-      id: {
+      name: {
         content: 'Item',
         tooltip: 'One piece of unique gear'
       },
-      name: {
+      count: {
         content: 'Count',
         tooltip: 'Number of people who equips this item'
       },
-      status: {
-        content: 'Type',
-        tooltip: 'Cloth, leather'
+      slot: {
+        content: 'Slot',
+        tooltip: 'e.g. head, legs, weapon'
+      },
+      characters: {
+        content: 'Players',
+        tooltip: 'Player(s) with this item equipped (may be outdated)'
       }
     };
-    let colOrder = ['id', 'name', 'status'];
-    // Footer column content can also be specified as [ 'ID', 'Name', 'Status'].
-    let footerCols = {id: {content: 'ID'}, name: {content: 'Name'}, status: {content: 'Status'}};
+    let colOrder = ['name', 'count', 'slot', 'characters'];
+    let footerCols = headerCols;
 
     return (
       <Table

@@ -36,8 +36,6 @@ let Main = React.createClass({
         <h1>material-ui</h1>
         <h2>example project</h2>
 
-        <a href="http://www.wowhead.com/item=30987" class="q4">Lightbringer Faceguard</a>
-
         <RaisedButton label="Super Secret Password" primary={true} onTouchTap={this._handleTouchTap} />
 
         <Chart />

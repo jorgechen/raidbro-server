@@ -1,0 +1,4910 @@
+{
+  "124856": {
+    "name": "Wild Gladiator's Badge of Conquest",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 61,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Top",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Idsappdat",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Efil",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Deadkurls",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Shanklust",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Roguegaine",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Ôoôoôoôo",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Gunsandmoney",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Visify",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Eeyz",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Skitzzo",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Thomas",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Aeonara",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Moneytrap",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Pillier",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Darpeqt",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Greovxo",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Zâri",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Traeøs",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Mimetic",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Fabricated",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Çøpêñhãgèñ",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Kindex",
+        "realm": "moon-guard"
+      },
+      {
+        "name": "Skreel",
+        "realm": "moon-guard"
+      },
+      {
+        "name": "Worldlyways",
+        "realm": "korgath"
+      },
+      {
+        "name": "Sealclubbing",
+        "realm": "korgath"
+      },
+      {
+        "name": "Bigpapajuan",
+        "realm": "illidan"
+      },
+      {
+        "name": "Mlgvodka",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Solushunz",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Xavierqt",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Jigashottz",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "ßlâde",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Onyxthelord",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Arianagrandé",
+        "realm": "proudmoore"
+      },
+      {
+        "name": "Wheresmydog",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Gallivantn",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Rèddot",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Stabulous",
+        "realm": "stormreaver"
+      },
+      {
+        "name": "Fakew",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Kamiqt",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Jskip",
+        "realm": "magtheridon"
+      },
+      {
+        "name": "Gbetadoe",
+        "realm": "area-52"
+      },
+      {
+        "name": "Massypwn",
+        "realm": "malganis"
+      },
+      {
+        "name": "Tõpshelfcõla",
+        "realm": "the-venture-co"
+      },
+      {
+        "name": "Rufio",
+        "realm": "dalvengyr"
+      },
+      {
+        "name": "Healinqt",
+        "realm": "eredar"
+      },
+      {
+        "name": "Adültswim",
+        "realm": "staghelm"
+      },
+      {
+        "name": "Soulavenged",
+        "realm": "nazjatar"
+      },
+      {
+        "name": "Háwkeye",
+        "realm": "caelestrasz"
+      },
+      {
+        "name": "Oakleys",
+        "realm": "cenarius"
+      },
+      {
+        "name": "Shadowblãde",
+        "realm": "mugthol"
+      },
+      {
+        "name": "Bossyatie",
+        "realm": "uldaman"
+      },
+      {
+        "name": "Quinar",
+        "realm": "wyrmrest-accord"
+      },
+      {
+        "name": "Vandaleesesz",
+        "realm": "wyrmrest-accord"
+      },
+      {
+        "name": "Kleen",
+        "realm": "wyrmrest-accord"
+      },
+      {
+        "name": "Ap",
+        "realm": "anvilmar"
+      },
+      {
+        "name": "Skyodin",
+        "realm": "whisperwind"
+      },
+      {
+        "name": "Håwkeye",
+        "realm": "crushridge"
+      },
+      {
+        "name": "Specðl",
+        "realm": "dark-iron"
+      },
+      {
+        "name": "Dábs",
+        "realm": "coilfang"
+      },
+      {
+        "name": "Karibee",
+        "realm": "hyjal"
+      }
+    ]
+  },
+  "124857": {
+    "name": "Wild Gladiator's Insignia of Conquest",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 44,
+    "slot": "trinket2",
+    "owners": [
+      {
+        "name": "Wàrdènèss",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Rumfist",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Idsappdat",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Efil",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Ezpurge",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Imweetarded",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Painlessz",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Skitzzo",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Thomas",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Ninjã",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Bowjay",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Spartfarkle",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Kegeyama",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Darkevie",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Traeøs",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Buhbai",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Xhale",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Alltel",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Çøpêñhãgèñ",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Camelcrush",
+        "realm": "stormrage"
+      },
+      {
+        "name": "Ripyouapart",
+        "realm": "stormrage"
+      },
+      {
+        "name": "Skreel",
+        "realm": "moon-guard"
+      },
+      {
+        "name": "Worldlyways",
+        "realm": "korgath"
+      },
+      {
+        "name": "Mlgvodka",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Swiggled",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Arianagrandé",
+        "realm": "proudmoore"
+      },
+      {
+        "name": "Spaceranger",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Scudster",
+        "realm": "shadowmoon"
+      },
+      {
+        "name": "Dps",
+        "realm": "magtheridon"
+      },
+      {
+        "name": "Xrehsaw",
+        "realm": "icecrown"
+      },
+      {
+        "name": "Ballerqt",
+        "realm": "frostmane"
+      },
+      {
+        "name": "Wigglytuff",
+        "realm": "gorefiend"
+      },
+      {
+        "name": "Soulavenged",
+        "realm": "nazjatar"
+      },
+      {
+        "name": "Shadowblãde",
+        "realm": "mugthol"
+      },
+      {
+        "name": "Stunshine",
+        "realm": "fenris"
+      },
+      {
+        "name": "Alcare",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Gluestick",
+        "realm": "saurfang"
+      },
+      {
+        "name": "Killingsprie",
+        "realm": "amanthul"
+      },
+      {
+        "name": "Surpa",
+        "realm": "blackwater-raiders"
+      },
+      {
+        "name": "Traphouse",
+        "realm": "azuremyst"
+      },
+      {
+        "name": "Skyodin",
+        "realm": "whisperwind"
+      },
+      {
+        "name": "Rxx",
+        "realm": "rivendare"
+      },
+      {
+        "name": "Tuesday",
+        "realm": "fizzcrank"
+      },
+      {
+        "name": "Whorse",
+        "realm": "nesingwary"
+      }
+    ]
+  },
+  "124860": {
+    "name": "Wild Gladiator's Emblem of Meditation",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 2,
+    "slot": "trinket2",
+    "owners": [
+      {
+        "name": "ßoomtree",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Jyrgalon",
+        "realm": "kelthuzad"
+      }
+    ]
+  },
+  "124861": {
+    "name": "Wild Gladiator's Badge of Dominance",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 111,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Churnt",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Alohacuz",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Âlexjones",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Lorionnz",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Eytrix",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Cuteybubbles",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Ffumbducker",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Horang",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Djey",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Cusip",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Nakiir",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Deusdamagica",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Firecon",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Ongôr",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Skrimz",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Nifftysixty",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Shotcuz",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Hyxchaoz",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Rickyx",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Quinniqua",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Shrumez",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Løz",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Sweeps",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Roxsee",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Skyrëaver",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Muddi",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Shadowsavior",
+        "realm": "darkspear"
+      },
+      {
+        "name": "ßrâh",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Cameronkush",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Øverlord",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Päulo",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Astroidz",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Crashadin",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Keshir",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Jákal",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Rayniah",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Yuliedoll",
+        "realm": "moon-guard"
+      },
+      {
+        "name": "Eugene",
+        "realm": "moon-guard"
+      },
+      {
+        "name": "Antìchristx",
+        "realm": "korgath"
+      },
+      {
+        "name": "Dotdotmurder",
+        "realm": "korgath"
+      },
+      {
+        "name": "Kushmamatko",
+        "realm": "illidan"
+      },
+      {
+        "name": "Soballer",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Shadowcute",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Derivatíve",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Wooh",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Fiftysorbust",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Srminga",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Hotwood",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Törch",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Bailamoose",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Fadedoffvape",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Onewaytohell",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Pipebombz",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Reallyfatcat",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Kgillan",
+        "realm": "proudmoore"
+      },
+      {
+        "name": "Lieu",
+        "realm": "deathwing"
+      },
+      {
+        "name": "Bwôrd",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Janixy",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Ugotfinessed",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Cøwer",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Videovamp",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Heilious",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Battlechaser",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Vanra",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Sparklepôny",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Sír",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Minorities",
+        "realm": "blackrock"
+      },
+      {
+        "name": "Sabrinaxd",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Sullivän",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Søda",
+        "realm": "nemesis"
+      },
+      {
+        "name": "ßeepßoop",
+        "realm": "magtheridon"
+      },
+      {
+        "name": "Contagion",
+        "realm": "dragonmaw"
+      },
+      {
+        "name": "Patsmomop",
+        "realm": "burning-blade"
+      },
+      {
+        "name": "Jedcopwnx",
+        "realm": "malganis"
+      },
+      {
+        "name": "Durtydave",
+        "realm": "burning-legion"
+      },
+      {
+        "name": "Icyvêíns",
+        "realm": "mannoroth"
+      },
+      {
+        "name": "Buddyclubx",
+        "realm": "mannoroth"
+      },
+      {
+        "name": "Ludwigh",
+        "realm": "lightninghoof"
+      },
+      {
+        "name": "Dogform",
+        "realm": "vashj"
+      },
+      {
+        "name": "Socrati",
+        "realm": "alleria"
+      },
+      {
+        "name": "Trixiè",
+        "realm": "zuluhed"
+      },
+      {
+        "name": "Crúcify",
+        "realm": "nerzhul"
+      },
+      {
+        "name": "Aashes",
+        "realm": "eldrethalas"
+      },
+      {
+        "name": "Clincedene",
+        "realm": "fenris"
+      },
+      {
+        "name": "Ripstalksu",
+        "realm": "silver-hand"
+      },
+      {
+        "name": "Oakcicle",
+        "realm": "cairne"
+      },
+      {
+        "name": "Rïuky",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Lìzet",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Hørûss",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Dömmön",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Trynity",
+        "realm": "saurfang"
+      },
+      {
+        "name": "Streyed",
+        "realm": "saurfang"
+      },
+      {
+        "name": "Vellex",
+        "realm": "stormscale"
+      },
+      {
+        "name": "Llamaroo",
+        "realm": "gundrak"
+      },
+      {
+        "name": "Ayoni",
+        "realm": "amanthul"
+      },
+      {
+        "name": "Wormskull",
+        "realm": "aggramar"
+      },
+      {
+        "name": "Skimage",
+        "realm": "doomhammer"
+      },
+      {
+        "name": "Stupidbubble",
+        "realm": "doomhammer"
+      },
+      {
+        "name": "Ragging",
+        "realm": "lightbringer"
+      },
+      {
+        "name": "Lifetâp",
+        "realm": "lightbringer"
+      },
+      {
+        "name": "Tímida",
+        "realm": "quelthalas"
+      },
+      {
+        "name": "Juicebox",
+        "realm": "khadgar"
+      },
+      {
+        "name": "Hôlyburn",
+        "realm": "blades-edge"
+      },
+      {
+        "name": "Kyle",
+        "realm": "kilrogg"
+      },
+      {
+        "name": "Jaillbait",
+        "realm": "dark-iron"
+      },
+      {
+        "name": "Kruzr",
+        "realm": "thunderhorn"
+      },
+      {
+        "name": "Yîpmån",
+        "realm": "ysera"
+      },
+      {
+        "name": "Shawoop",
+        "realm": "ysondre"
+      },
+      {
+        "name": "Cerotowahuna",
+        "realm": "dawnbringer"
+      },
+      {
+        "name": "Seveninches",
+        "realm": "dragonblight"
+      },
+      {
+        "name": "Rhymenocerus",
+        "realm": "terenas"
+      }
+    ]
+  },
+  "124862": {
+    "name": "Wild Gladiator's Insignia of Dominance",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 179,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Shadowgød",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Hewty",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Eunhyo",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Roymixjr",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Darkdubu",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Sparkpluggs",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Chanimal",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Estefana",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Moungdyy",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Grizzatron",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Neverpeakx",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Originall",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Noaa",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Drexia",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Eytrix",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Monkymagic",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Isendnudesay",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Kadabrá",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Bluknightess",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Ryr",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Supérb",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Genetíc",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Horang",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Ultîma",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Exclusivex",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Bornshadow",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Iockgodtkoz",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Obyzouth",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Vosil",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Unobtrusive",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Naynayy",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Xedra",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Disembody",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Alwind",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Ozzxz",
+        "realm": "altar-of-storms"
+      },
+      {
+        "name": "Verny",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Sandey",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Ÿipman",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Mostshady",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Zyeep",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Faeriexo",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Glacial",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Parïshealton",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Sxcanimal",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Kioshe",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Invidias",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Astraljam",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Zneb",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Zëra",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Notstoned",
+        "realm": "darkspear"
+      },
+      {
+        "name": "ßrâh",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Sillypingg",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Øverlord",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Päulo",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Paisleyy",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Teaheals",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Galaktris",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Swap",
+        "realm": "darkspear"
+      },
+      {
+        "name": "ßrass",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Keshir",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Ghóstface",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Abni",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Babyheads",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Lizardwizard",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Nightflyer",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Lurion",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Zearz",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Hédge",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Fountaiin",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Discoslide",
+        "realm": "stormrage"
+      },
+      {
+        "name": "Carnífex",
+        "realm": "stormrage"
+      },
+      {
+        "name": "Lebronjãmes",
+        "realm": "stormrage"
+      },
+      {
+        "name": "Sempia",
+        "realm": "stormrage"
+      },
+      {
+        "name": "Jallas",
+        "realm": "moon-guard"
+      },
+      {
+        "name": "Yuliedoll",
+        "realm": "moon-guard"
+      },
+      {
+        "name": "Kobeforever",
+        "realm": "korgath"
+      },
+      {
+        "name": "Meangirl",
+        "realm": "korgath"
+      },
+      {
+        "name": "Neuroscience",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Kanabolts",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Lafonday",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Dmtxo",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Màj",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Shiftywitch",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Derivatíve",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Dipindots",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Jétlife",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Wooh",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Neemzilla",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Cåat",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Fiftysorbust",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Törch",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Weavekilla",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Thegambït",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Takelivez",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Onewaytohell",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Jimbomb",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Crunknsht",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Reallyfatcat",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Sindir",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Dappest",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Snôw",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Obertito",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Brbvodka",
+        "realm": "proudmoore"
+      },
+      {
+        "name": "Namaste",
+        "realm": "proudmoore"
+      },
+      {
+        "name": "Lieu",
+        "realm": "deathwing"
+      },
+      {
+        "name": "Ranklock",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Janixy",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Sadôxx",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Ugotfinessed",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Lbowski",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Jodijo",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Kenbud",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Heilious",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Battlechaser",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Vanra",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Deadlykíss",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Mangchiface",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Sýdra",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Muffinrat",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Rhÿ",
+        "realm": "stormreaver"
+      },
+      {
+        "name": "Schwapdot",
+        "realm": "stormreaver"
+      },
+      {
+        "name": "Meesooholy",
+        "realm": "blackrock"
+      },
+      {
+        "name": "Sulivän",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Sabrinaxd",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Capulletø",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Romeeu",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Murkmíndz",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Qwetypie",
+        "realm": "magtheridon"
+      },
+      {
+        "name": "Imaindruid",
+        "realm": "magtheridon"
+      },
+      {
+        "name": "Buddhadasa",
+        "realm": "jubeithos"
+      },
+      {
+        "name": "Patsmomop",
+        "realm": "burning-blade"
+      },
+      {
+        "name": "Cornerslave",
+        "realm": "malganis"
+      },
+      {
+        "name": "Kcamp",
+        "realm": "malganis"
+      },
+      {
+        "name": "Squinttz",
+        "realm": "arthas"
+      },
+      {
+        "name": "Babirat",
+        "realm": "guldan"
+      },
+      {
+        "name": "Potsmoka",
+        "realm": "mannoroth"
+      },
+      {
+        "name": "Rawkusz",
+        "realm": "mannoroth"
+      },
+      {
+        "name": "Icyvêíns",
+        "realm": "mannoroth"
+      },
+      {
+        "name": "Reda",
+        "realm": "mannoroth"
+      },
+      {
+        "name": "Skatar",
+        "realm": "draenor"
+      },
+      {
+        "name": "Freethrow",
+        "realm": "vashj"
+      },
+      {
+        "name": "Sanctusletem",
+        "realm": "vashj"
+      },
+      {
+        "name": "Momspaghetti",
+        "realm": "zuljin"
+      },
+      {
+        "name": "Deathboltqt",
+        "realm": "duskwood"
+      },
+      {
+        "name": "Aem",
+        "realm": "khaz-modan"
+      },
+      {
+        "name": "Veruz",
+        "realm": "frostmane"
+      },
+      {
+        "name": "Halô",
+        "realm": "zuluhed"
+      },
+      {
+        "name": "Sukori",
+        "realm": "aerie-peak"
+      },
+      {
+        "name": "Olddude",
+        "realm": "dunemaul"
+      },
+      {
+        "name": "Littleniki",
+        "realm": "cenarius"
+      },
+      {
+        "name": "Voíd",
+        "realm": "stonemaul"
+      },
+      {
+        "name": "Clincedene",
+        "realm": "fenris"
+      },
+      {
+        "name": "Oakcicle",
+        "realm": "cairne"
+      },
+      {
+        "name": "Kayaba",
+        "realm": "cairne"
+      },
+      {
+        "name": "Stanis",
+        "realm": "tanaris"
+      },
+      {
+        "name": "Morfiinqt",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Zrt",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Saradhas",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Dömmön",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Kahntox",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Òóh",
+        "realm": "saurfang"
+      },
+      {
+        "name": "Timmygodeep",
+        "realm": "antonidas"
+      },
+      {
+        "name": "Dkoiz",
+        "realm": "thaurissan"
+      },
+      {
+        "name": "Sickunt",
+        "realm": "alterac-mountains"
+      },
+      {
+        "name": "Paûl",
+        "realm": "norgannon"
+      },
+      {
+        "name": "Skimage",
+        "realm": "doomhammer"
+      },
+      {
+        "name": "Stupidbubble",
+        "realm": "doomhammer"
+      },
+      {
+        "name": "Skybreaker",
+        "realm": "echo-isles"
+      },
+      {
+        "name": "Yourfriends",
+        "realm": "echo-isles"
+      },
+      {
+        "name": "Jhonex",
+        "realm": "quelthalas"
+      },
+      {
+        "name": "Steinargg",
+        "realm": "quelthalas"
+      },
+      {
+        "name": "Hoopasoul",
+        "realm": "hakkar"
+      },
+      {
+        "name": "Phenomenon",
+        "realm": "scarlet-crusade"
+      },
+      {
+        "name": "Zaz",
+        "realm": "nazgrel"
+      },
+      {
+        "name": "Sufty",
+        "realm": "skywall"
+      },
+      {
+        "name": "Shawoop",
+        "realm": "ysondre"
+      },
+      {
+        "name": "Floatin",
+        "realm": "kargath"
+      },
+      {
+        "name": "Shivá",
+        "realm": "arathor"
+      },
+      {
+        "name": "Alwaysjolly",
+        "realm": "ghostlands"
+      }
+    ]
+  },
+  "124863": {
+    "name": "Wild Gladiator's Medallion of Cruelty",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 8,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "ßoomtree",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Teagen",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Sindir",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Kadman",
+        "realm": "dragonmaw"
+      },
+      {
+        "name": "Insouciant",
+        "realm": "vashj"
+      },
+      {
+        "name": "Heavysippin",
+        "realm": "doomhammer"
+      },
+      {
+        "name": "Mandango",
+        "realm": "lightbringer"
+      },
+      {
+        "name": "Yourfriends",
+        "realm": "echo-isles"
+      }
+    ]
+  },
+  "124864": {
+    "name": "Wild Gladiator's Medallion of Adaptation",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 26,
+    "slot": "trinket2",
+    "owners": [
+      {
+        "name": "Nekura",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Rattpack",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Bonedox",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Mádrox",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Mahnruuck",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Chriskyle",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Skullmedic",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Muthergoblin",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Cathorist",
+        "realm": "arthas"
+      },
+      {
+        "name": "Sesamecakez",
+        "realm": "zuljin"
+      },
+      {
+        "name": "Wantsumkarn",
+        "realm": "zuljin"
+      },
+      {
+        "name": "Necropotense",
+        "realm": "laughing-skull"
+      },
+      {
+        "name": "Vintage",
+        "realm": "khaz-modan"
+      },
+      {
+        "name": "Xyzz",
+        "realm": "zuluhed"
+      },
+      {
+        "name": "Getmoredots",
+        "realm": "mugthol"
+      },
+      {
+        "name": "Holyrings",
+        "realm": "chogall"
+      },
+      {
+        "name": "Hurtrick",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Matehary",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Wildgrowth",
+        "realm": "stormscale"
+      },
+      {
+        "name": "Donng",
+        "realm": "alterac-mountains"
+      },
+      {
+        "name": "Nint",
+        "realm": "alterac-mountains"
+      },
+      {
+        "name": "Nêrzhül",
+        "realm": "quelthalas"
+      },
+      {
+        "name": "Cicolluis",
+        "realm": "khazgoroth"
+      },
+      {
+        "name": "Xxrytixx",
+        "realm": "goldrinn"
+      },
+      {
+        "name": "Nordruid",
+        "realm": "terokkar"
+      },
+      {
+        "name": "Faldridan",
+        "realm": "the-underbog"
+      }
+    ]
+  },
+  "124865": {
+    "name": "Wild Gladiator's Medallion of Tenacity",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 2,
+    "slot": "trinket2",
+    "owners": [
+      {
+        "name": "Fuzzybum",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Vhessu",
+        "realm": "bleeding-hollow"
+      }
+    ]
+  },
+  "124866": {
+    "name": "Wild Gladiator's Medallion of Meditation",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 2,
+    "slot": "trinket2",
+    "owners": [
+      {
+        "name": "Astaru",
+        "realm": "lightbringer"
+      },
+      {
+        "name": "Shedre",
+        "realm": "rivendare"
+      }
+    ]
+  },
+  "124867": {
+    "name": "Wild Gladiator's Badge of Victory",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 39,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Cibulal",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Staynstronk",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Warmonger",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Com",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Hêcâte",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Canipvp",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Grimmjow",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Ryan",
+        "realm": "bloodhoof"
+      },
+      {
+        "name": "Sleepystomp",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Blàckbeard",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Laeyla",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Ødinsøn",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Customq",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Raìko",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Blöödbáth",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Scumtractor",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Scoùt",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Skynët",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Easychills",
+        "realm": "korgath"
+      },
+      {
+        "name": "Anieros",
+        "realm": "azjolnerub"
+      },
+      {
+        "name": "Mofoka",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Laxeus",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Bigboybulks",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Lynchbourn",
+        "realm": "proudmoore"
+      },
+      {
+        "name": "Mavrîx",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Neckyaself",
+        "realm": "jubeithos"
+      },
+      {
+        "name": "Duval",
+        "realm": "executus"
+      },
+      {
+        "name": "Ävatar",
+        "realm": "grizzly-hills"
+      },
+      {
+        "name": "Colorblind",
+        "realm": "lightninghoof"
+      },
+      {
+        "name": "Sfer",
+        "realm": "vashj"
+      },
+      {
+        "name": "Malv",
+        "realm": "llane"
+      },
+      {
+        "name": "Embracedeath",
+        "realm": "caelestrasz"
+      },
+      {
+        "name": "Beta",
+        "realm": "frostwolf"
+      },
+      {
+        "name": "Fenømenoide",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Silax",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Dklol",
+        "realm": "borean-tundra"
+      },
+      {
+        "name": "Razeill",
+        "realm": "bloodscalp"
+      },
+      {
+        "name": "Kaign",
+        "realm": "ravenholdt"
+      },
+      {
+        "name": "Dankmemester",
+        "realm": "bladefist"
+      }
+    ]
+  },
+  "124868": {
+    "name": "Wild Gladiator's Insignia of Victory",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 52,
+    "slot": "trinket2",
+    "owners": [
+      {
+        "name": "Ilovekrista",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Warmonger",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Nxckolas",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Canipvp",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Bayine",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Grimmjow",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Afkkenpachi",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Ryan",
+        "realm": "bloodhoof"
+      },
+      {
+        "name": "Sugarfree",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Spartañ",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Qnblade",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Blàckbeard",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Luceender",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Nkx",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Laeyla",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Ødinsøn",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Raktahan",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Jamiroquaii",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Grippo",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Blöödbáth",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Scumtractor",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Scoùt",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Malfoid",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Hðlypally",
+        "realm": "illidan"
+      },
+      {
+        "name": "Khaleesei",
+        "realm": "illidan"
+      },
+      {
+        "name": "Jfv",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Laxeus",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Dex",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Musy",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Rezounding",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Iornhide",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Jonwaynes",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Criitzs",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Veexe",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Kissgakki",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Strat",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Mongolordx",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Skppee",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Podd",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Murdaro",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Vërdict",
+        "realm": "malganis"
+      },
+      {
+        "name": "Duval",
+        "realm": "executus"
+      },
+      {
+        "name": "Beetlejuîce",
+        "realm": "zuluhed"
+      },
+      {
+        "name": "Losiro",
+        "realm": "haomarush"
+      },
+      {
+        "name": "Onidge",
+        "realm": "caelestrasz"
+      },
+      {
+        "name": "Fenømenoide",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Nosidam",
+        "realm": "lightnings-blade"
+      },
+      {
+        "name": "Dklol",
+        "realm": "borean-tundra"
+      },
+      {
+        "name": "Rün",
+        "realm": "lightbringer"
+      },
+      {
+        "name": "Icefists",
+        "realm": "exodar"
+      },
+      {
+        "name": "Caleb",
+        "realm": "gurubashi"
+      },
+      {
+        "name": "Typicalfish",
+        "realm": "coilfang"
+      }
+    ]
+  },
+  "124869": {
+    "name": "Wild Gladiator's Badge of Adaptation",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 78,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Dethlyshadow",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Howdoidothis",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Chaargeqt",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Gripzerz",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Økäy",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Johnbohnam",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Bootycäll",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Dannybrèezy",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Pssych",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Alexlimbo",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Qnblade",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Charlìe",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Aeonyx",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Arnessa",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Pillier",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Bêllätrix",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Demonicways",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Iluvhugz",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Hannurz",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Loouu",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Cannyon",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Livingsaint",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Diedatbirth",
+        "realm": "korgath"
+      },
+      {
+        "name": "Unsighted",
+        "realm": "illidan"
+      },
+      {
+        "name": "Saijo",
+        "realm": "illidan"
+      },
+      {
+        "name": "Dezstro",
+        "realm": "illidan"
+      },
+      {
+        "name": "Brynhìldr",
+        "realm": "azjolnerub"
+      },
+      {
+        "name": "Sacrylege",
+        "realm": "azjolnerub"
+      },
+      {
+        "name": "Bubblesblow",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Cano",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Revosk",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Felòny",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Bailamosjr",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Bigbootyruty",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Barathias",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Wraptko",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Ziffyx",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Phayce",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Àz",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Roarsalot",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Malistaire",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Meesooholy",
+        "realm": "blackrock"
+      },
+      {
+        "name": "Cäinn",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Katevoegele",
+        "realm": "jubeithos"
+      },
+      {
+        "name": "Feároshima",
+        "realm": "dragonmaw"
+      },
+      {
+        "name": "Désna",
+        "realm": "barthilas"
+      },
+      {
+        "name": "Vërdict",
+        "realm": "malganis"
+      },
+      {
+        "name": "Miizery",
+        "realm": "arthas"
+      },
+      {
+        "name": "Potsmoka",
+        "realm": "mannoroth"
+      },
+      {
+        "name": "Insanegoose",
+        "realm": "draenor"
+      },
+      {
+        "name": "Princéss",
+        "realm": "lightninghoof"
+      },
+      {
+        "name": "Tinyrouge",
+        "realm": "vashj"
+      },
+      {
+        "name": "Dramatika",
+        "realm": "lethon"
+      },
+      {
+        "name": "Deadlydevil",
+        "realm": "duskwood"
+      },
+      {
+        "name": "Botch",
+        "realm": "khaz-modan"
+      },
+      {
+        "name": "Tâstelikê",
+        "realm": "nerzhul"
+      },
+      {
+        "name": "Stunshine",
+        "realm": "fenris"
+      },
+      {
+        "name": "Tom",
+        "realm": "cairne"
+      },
+      {
+        "name": "Éévee",
+        "realm": "wyrmrest-accord"
+      },
+      {
+        "name": "Shockstrap",
+        "realm": "garrosh"
+      },
+      {
+        "name": "Yakumson",
+        "realm": "frostwolf"
+      },
+      {
+        "name": "Elsafrozzen",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Käøz",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Sventka",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Astrophel",
+        "realm": "stormscale"
+      },
+      {
+        "name": "Subqt",
+        "realm": "norgannon"
+      },
+      {
+        "name": "Pampers",
+        "realm": "eitrigg"
+      },
+      {
+        "name": "Surpa",
+        "realm": "blackwater-raiders"
+      },
+      {
+        "name": "Vvell",
+        "realm": "ravencrest"
+      },
+      {
+        "name": "Aphyrs",
+        "realm": "quelthalas"
+      },
+      {
+        "name": "Ðamand",
+        "realm": "blood-furnace"
+      },
+      {
+        "name": "Satsuki",
+        "realm": "destromath"
+      },
+      {
+        "name": "Frozenluct",
+        "realm": "crushridge"
+      },
+      {
+        "name": "Blakeysmalls",
+        "realm": "khazgoroth"
+      },
+      {
+        "name": "Stockler",
+        "realm": "goldrinn"
+      },
+      {
+        "name": "Wayso",
+        "realm": "drakthul"
+      },
+      {
+        "name": "Deets",
+        "realm": "uther"
+      },
+      {
+        "name": "Syiuros",
+        "realm": "azshara"
+      }
+    ]
+  },
+  "124870": {
+    "name": "Wild Gladiator's Accolade of Conquest",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 74,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Doncoco",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Sorina",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Top",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Skynard",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Aluwyn",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Bluster",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Gunsandmoney",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Hackhatchgød",
+        "realm": "altar-of-storms"
+      },
+      {
+        "name": "Barrff",
+        "realm": "altar-of-storms"
+      },
+      {
+        "name": "Alexlimbo",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Kritorus",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Darpeqt",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Roguedude",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Bæbae",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Copenhägen",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Slänky",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Physsu",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Wîdow",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Darkevie",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Jaguarclaw",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Blindsociety",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Sozzi",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Alltel",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Blòò",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Rûde",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Fåtë",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Arthurios",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Thrustycaulk",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Garstig",
+        "realm": "stormrage"
+      },
+      {
+        "name": "Ártémis",
+        "realm": "korgath"
+      },
+      {
+        "name": "Terribly",
+        "realm": "korgath"
+      },
+      {
+        "name": "Prettythug",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Alterfate",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Warathos",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Solushunz",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Yeezús",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Zark",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Hugmeqt",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Shöcknasty",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Notasian",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Outed",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Spaceranger",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Rheâ",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Borgátá",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Stabyaface",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Arradoc",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Itzdxd",
+        "realm": "blackrock"
+      },
+      {
+        "name": "Icëe",
+        "realm": "blackrock"
+      },
+      {
+        "name": "Fakew",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Nigjuan",
+        "realm": "barthilas"
+      },
+      {
+        "name": "Garruuk",
+        "realm": "malganis"
+      },
+      {
+        "name": "Strikér",
+        "realm": "mannoroth"
+      },
+      {
+        "name": "Stormstrike",
+        "realm": "mannoroth"
+      },
+      {
+        "name": "Areej",
+        "realm": "black-dragonflight"
+      },
+      {
+        "name": "Rose",
+        "realm": "black-dragonflight"
+      },
+      {
+        "name": "Zyzz",
+        "realm": "grizzly-hills"
+      },
+      {
+        "name": "Ultimate",
+        "realm": "vashj"
+      },
+      {
+        "name": "Horyx",
+        "realm": "zuljin"
+      },
+      {
+        "name": "Darakon",
+        "realm": "blackhand"
+      },
+      {
+        "name": "Quicknsteady",
+        "realm": "durotan"
+      },
+      {
+        "name": "Quickness",
+        "realm": "durotan"
+      },
+      {
+        "name": "Onyxman",
+        "realm": "archimonde"
+      },
+      {
+        "name": "Johnfinwayne",
+        "realm": "archimonde"
+      },
+      {
+        "name": "Kleen",
+        "realm": "wyrmrest-accord"
+      },
+      {
+        "name": "Toucher",
+        "realm": "alterac-mountains"
+      },
+      {
+        "name": "Subtlety",
+        "realm": "feathermoon"
+      },
+      {
+        "name": "Yaiden",
+        "realm": "quelthalas"
+      },
+      {
+        "name": "Ragnarxx",
+        "realm": "quelthalas"
+      },
+      {
+        "name": "Badle",
+        "realm": "uldum"
+      },
+      {
+        "name": "Lozen",
+        "realm": "blades-edge"
+      },
+      {
+        "name": "Thedoctore",
+        "realm": "skywall"
+      },
+      {
+        "name": "Huntyhuntio",
+        "realm": "moknathal"
+      },
+      {
+        "name": "Éldon",
+        "realm": "gorgonnash"
+      },
+      {
+        "name": "Denster",
+        "realm": "demon-soul"
+      }
+    ]
+  },
+  "124871": {
+    "name": "Wild Gladiator's Accolade of Dominance",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 134,
+    "slot": "trinket2",
+    "owners": [
+      {
+        "name": "Eunhyo",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Nameholdergg",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Allstàr",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Tøtø",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Ámu",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Jrdnxassassn",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Cupcakés",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Shaazoolx",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Lunchgodx",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Lonoriouz",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Têrrorz",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Gyuripapa",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Galâdriel",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Hulkdot",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Rokkster",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Fcbarsha",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Tibbehzx",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Manwithvan",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Shanalexise",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Zzero",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Tuggffsx",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Nakiir",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Druidkilla",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Pyrohax",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Xedra",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Disembody",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Guccifam",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Ozzxz",
+        "realm": "altar-of-storms"
+      },
+      {
+        "name": "Wittle",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Livtopher",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Beerfridays",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Starpush",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Tigarius",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Disciplene",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Kawia",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Kyltidqt",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Avaataar",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Îéâûõ",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Kushfire",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Unholysaint",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Pussdots",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Cannyon",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Zzeittgeistt",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Superfamous",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Jabruh",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Cinderbear",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Weinerdotdot",
+        "realm": "stormrage"
+      },
+      {
+        "name": "Heavenle",
+        "realm": "stormrage"
+      },
+      {
+        "name": "Deåthblast",
+        "realm": "stormrage"
+      },
+      {
+        "name": "Demonicality",
+        "realm": "stormrage"
+      },
+      {
+        "name": "Cynôd",
+        "realm": "stormrage"
+      },
+      {
+        "name": "Muzula",
+        "realm": "moon-guard"
+      },
+      {
+        "name": "Annveal",
+        "realm": "korgath"
+      },
+      {
+        "name": "Robotwiz",
+        "realm": "illidan"
+      },
+      {
+        "name": "Cxb",
+        "realm": "illidan"
+      },
+      {
+        "name": "Bruhgly",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Beepbóóp",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Arkamana",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Chumlee",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Porush",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Ampzz",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Jétlife",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Jord",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Rhoody",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Marienøir",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Mindflayz",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Praylude",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Recreational",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Johnhanlock",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Ursaviour",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Masutrick",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Chumbly",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Teradan",
+        "realm": "proudmoore"
+      },
+      {
+        "name": "Lazysod",
+        "realm": "proudmoore"
+      },
+      {
+        "name": "Hexenmeister",
+        "realm": "deathwing"
+      },
+      {
+        "name": "Søuldrainz",
+        "realm": "deathwing"
+      },
+      {
+        "name": "Videovamp",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Kenbud",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Jinksyslock",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Sparklepôny",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Sír",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Eròs",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Stuntmann",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Rlybusyx",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Klassiq",
+        "realm": "drenden"
+      },
+      {
+        "name": "Blaq",
+        "realm": "stormreaver"
+      },
+      {
+        "name": "Roosther",
+        "realm": "stormreaver"
+      },
+      {
+        "name": "Shøwtime",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Bebeth",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Keinedeath",
+        "realm": "nemesis"
+      },
+      {
+        "name": "ßeepßoop",
+        "realm": "magtheridon"
+      },
+      {
+        "name": "Contagion",
+        "realm": "dragonmaw"
+      },
+      {
+        "name": "Krixooks",
+        "realm": "barthilas"
+      },
+      {
+        "name": "Spuhmoni",
+        "realm": "arthas"
+      },
+      {
+        "name": "Durtydave",
+        "realm": "burning-legion"
+      },
+      {
+        "name": "Shaely",
+        "realm": "burning-legion"
+      },
+      {
+        "name": "Danglyjihm",
+        "realm": "burning-legion"
+      },
+      {
+        "name": "Rawkusz",
+        "realm": "mannoroth"
+      },
+      {
+        "name": "Doomornot",
+        "realm": "mannoroth"
+      },
+      {
+        "name": "Reda",
+        "realm": "mannoroth"
+      },
+      {
+        "name": "Skatar",
+        "realm": "draenor"
+      },
+      {
+        "name": "Dogform",
+        "realm": "vashj"
+      },
+      {
+        "name": "Worshipme",
+        "realm": "vashj"
+      },
+      {
+        "name": "Darkarmarus",
+        "realm": "malorne"
+      },
+      {
+        "name": "Totalnutz",
+        "realm": "icecrown"
+      },
+      {
+        "name": "Phades",
+        "realm": "frostmane"
+      },
+      {
+        "name": "Dælas",
+        "realm": "zuluhed"
+      },
+      {
+        "name": "Fatherboone",
+        "realm": "gorefiend"
+      },
+      {
+        "name": "Darknovã",
+        "realm": "aerie-peak"
+      },
+      {
+        "name": "Slackér",
+        "realm": "dunemaul"
+      },
+      {
+        "name": "Mortishå",
+        "realm": "dunemaul"
+      },
+      {
+        "name": "Blizzkitty",
+        "realm": "archimonde"
+      },
+      {
+        "name": "Raleìgh",
+        "realm": "wyrmrest-accord"
+      },
+      {
+        "name": "Kobel",
+        "realm": "spirestone"
+      },
+      {
+        "name": "Stanis",
+        "realm": "tanaris"
+      },
+      {
+        "name": "Kriye",
+        "realm": "frostwolf"
+      },
+      {
+        "name": "Vnz",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Delírium",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Pinevi",
+        "realm": "suramar"
+      },
+      {
+        "name": "Gemani",
+        "realm": "feathermoon"
+      },
+      {
+        "name": "Coughdropp",
+        "realm": "feathermoon"
+      },
+      {
+        "name": "Ragging",
+        "realm": "lightbringer"
+      },
+      {
+        "name": "Rangopls",
+        "realm": "lightbringer"
+      },
+      {
+        "name": "Pouncington",
+        "realm": "lightbringer"
+      },
+      {
+        "name": "Fefiangel",
+        "realm": "quelthalas"
+      },
+      {
+        "name": "Juicebox",
+        "realm": "khadgar"
+      },
+      {
+        "name": "Photem",
+        "realm": "farstriders"
+      },
+      {
+        "name": "Bighearts",
+        "realm": "ysera"
+      },
+      {
+        "name": "Kap",
+        "realm": "galakrond"
+      },
+      {
+        "name": "Wayso",
+        "realm": "drakthul"
+      },
+      {
+        "name": "Abbycat",
+        "realm": "terokkar"
+      },
+      {
+        "name": "Deadburn",
+        "realm": "scilla"
+      },
+      {
+        "name": "Chillâx",
+        "realm": "nesingwary"
+      },
+      {
+        "name": "Çoldçhill",
+        "realm": "shuhalo"
+      }
+    ]
+  },
+  "124872": {
+    "name": "Wild Gladiator's Accolade of Victory",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 54,
+    "slot": "trinket2",
+    "owners": [
+      {
+        "name": "Staynstronk",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Goonin",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Vova",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Grïmey",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Pohlo",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Syänana",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Nemreaper",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Necrofeelyea",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Mäth",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Beatlejuicë",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Djcreditz",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Lêröy",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Cléavagé",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Hypothermy",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Bælife",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Leôqt",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Muspell",
+        "realm": "moon-guard"
+      },
+      {
+        "name": "Champlolxd",
+        "realm": "illidan"
+      },
+      {
+        "name": "Moonfrost",
+        "realm": "azjolnerub"
+      },
+      {
+        "name": "Crepper",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Ðim",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Deviostv",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Darreese",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Docsavagetko",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Lynchbourn",
+        "realm": "proudmoore"
+      },
+      {
+        "name": "Proclordtko",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Swootz",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Brolyqtt",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Krüpp",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Sarú",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Ðrazien",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Veyronz",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Tankrem",
+        "realm": "drenden"
+      },
+      {
+        "name": "Retwhat",
+        "realm": "drenden"
+      },
+      {
+        "name": "Minhamãe",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Pwnytails",
+        "realm": "magtheridon"
+      },
+      {
+        "name": "Saltlordx",
+        "realm": "burning-blade"
+      },
+      {
+        "name": "Luuiz",
+        "realm": "azralon"
+      },
+      {
+        "name": "Jäce",
+        "realm": "vashj"
+      },
+      {
+        "name": "Lelelelele",
+        "realm": "wildhammer"
+      },
+      {
+        "name": "Mourned",
+        "realm": "undermine"
+      },
+      {
+        "name": "Seavisqt",
+        "realm": "trollbane"
+      },
+      {
+        "name": "Electrician",
+        "realm": "firetree"
+      },
+      {
+        "name": "Pvptryhard",
+        "realm": "thunderlord"
+      },
+      {
+        "name": "Victorock",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Lucasalis",
+        "realm": "alterac-mountains"
+      },
+      {
+        "name": "Pwnyo",
+        "realm": "lightbringer"
+      },
+      {
+        "name": "Ðamand",
+        "realm": "blood-furnace"
+      },
+      {
+        "name": "Krok",
+        "realm": "uldum"
+      },
+      {
+        "name": "Icefists",
+        "realm": "exodar"
+      },
+      {
+        "name": "Satsuki",
+        "realm": "destromath"
+      },
+      {
+        "name": "Patters",
+        "realm": "destromath"
+      },
+      {
+        "name": "Zarne",
+        "realm": "ysera"
+      },
+      {
+        "name": "Stockler",
+        "realm": "goldrinn"
+      }
+    ]
+  },
+  "124873": {
+    "name": "Wild Gladiator's Accolade of Meditation",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 79,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Gorukxo",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Yunanie",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Dogsound",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Pâllpâlly",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Pwinnie",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Teckniquez",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Willell",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Chórong",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Vled",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Rigoraige",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Shamonn",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Tranzz",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Tremulous",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Äsedia",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Twîsted",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Lanathel",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Watermellons",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Triber",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Bubblegummz",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Flöra",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Salusxo",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Dispérsion",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Reolheal",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Vérsacé",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Worgenätor",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Bootyweaver",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Jaredx",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Darkfists",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Burnttoàst",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Kuza",
+        "realm": "stormrage"
+      },
+      {
+        "name": "Ilovedisco",
+        "realm": "stormrage"
+      },
+      {
+        "name": "Littlelili",
+        "realm": "korgath"
+      },
+      {
+        "name": "Mistgodtko",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Knowbuddy",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Çletus",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Skoomabear",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Capptain",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Danabailey",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Lexapro",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Bluêmoon",
+        "realm": "kelthuzad"
+      },
+      {
+        "name": "Bobthemad",
+        "realm": "proudmoore"
+      },
+      {
+        "name": "Cotoran",
+        "realm": "proudmoore"
+      },
+      {
+        "name": "Skywishes",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Oniiçhan",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Earsweat",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Lemøndrop",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Queztlcoatl",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Pvppanda",
+        "realm": "blackrock"
+      },
+      {
+        "name": "Sulivaan",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Equipoise",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Slothgasm",
+        "realm": "jubeithos"
+      },
+      {
+        "name": "Psyclòne",
+        "realm": "jubeithos"
+      },
+      {
+        "name": "Pajowned",
+        "realm": "burning-blade"
+      },
+      {
+        "name": "Arithmetic",
+        "realm": "area-52"
+      },
+      {
+        "name": "Simbuh",
+        "realm": "arthas"
+      },
+      {
+        "name": "Angelle",
+        "realm": "mannoroth"
+      },
+      {
+        "name": "Kellindiir",
+        "realm": "vashj"
+      },
+      {
+        "name": "Tinkytee",
+        "realm": "vashj"
+      },
+      {
+        "name": "Dreagone",
+        "realm": "vashj"
+      },
+      {
+        "name": "Koalafied",
+        "realm": "laughing-skull"
+      },
+      {
+        "name": "Shamanigins",
+        "realm": "gorefiend"
+      },
+      {
+        "name": "Colors",
+        "realm": "caelestrasz"
+      },
+      {
+        "name": "Koonnoma",
+        "realm": "fenris"
+      },
+      {
+        "name": "Klutik",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Kylria",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Spíniak",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Maomaocong",
+        "realm": "thaurissan"
+      },
+      {
+        "name": "Mayá",
+        "realm": "amanthul"
+      },
+      {
+        "name": "Krazedbanana",
+        "realm": "malygos"
+      },
+      {
+        "name": "Heavysippin",
+        "realm": "doomhammer"
+      },
+      {
+        "name": "Monkarius",
+        "realm": "senjin"
+      },
+      {
+        "name": "Elantris",
+        "realm": "quelthalas"
+      },
+      {
+        "name": "Airwrecka",
+        "realm": "hakkar"
+      },
+      {
+        "name": "Xmrowr",
+        "realm": "turalyon"
+      },
+      {
+        "name": "Kyliejenner",
+        "realm": "hydraxis"
+      },
+      {
+        "name": "Whoaint",
+        "realm": "shattered-halls"
+      },
+      {
+        "name": "Besthealer",
+        "realm": "coilfang"
+      },
+      {
+        "name": "Franciosm",
+        "realm": "gnomeregan"
+      },
+      {
+        "name": "Trevanazhan",
+        "realm": "gnomeregan"
+      }
+    ]
+  },
+  "124874": {
+    "name": "Wild Gladiator's Accolade of Endurance",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 2,
+    "slot": "trinket2",
+    "owners": [
+      {
+        "name": "Jöhnathan",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Wolfnore",
+        "realm": "emerald-dream"
+      }
+    ]
+  },
+  "125335": {
+    "name": "Wild Gladiator's Badge of Conquest",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 12,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Deadsilver",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Caillie",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Eiigen",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Thegambit",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Calamìty",
+        "realm": "illidan"
+      },
+      {
+        "name": "Bowjowb",
+        "realm": "malganis"
+      },
+      {
+        "name": "Wantsumkarn",
+        "realm": "zuljin"
+      },
+      {
+        "name": "Xyzz",
+        "realm": "zuluhed"
+      },
+      {
+        "name": "Mercúry",
+        "realm": "skullcrusher"
+      },
+      {
+        "name": "Smashingo",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Nêrzhül",
+        "realm": "quelthalas"
+      },
+      {
+        "name": "Sargus",
+        "realm": "skywall"
+      }
+    ]
+  },
+  "125336": {
+    "name": "Wild Gladiator's Insignia of Conquest",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 11,
+    "slot": "trinket2",
+    "owners": [
+      {
+        "name": "Monchis",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Bravallys",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Icritz",
+        "realm": "thrall"
+      },
+      {
+        "name": "Papagirth",
+        "realm": "blackrock"
+      },
+      {
+        "name": "Npnw",
+        "realm": "dragonmaw"
+      },
+      {
+        "name": "Sennsi",
+        "realm": "malganis"
+      },
+      {
+        "name": "Cynistra",
+        "realm": "azralon"
+      },
+      {
+        "name": "Randomdotqt",
+        "realm": "dunemaul"
+      },
+      {
+        "name": "Stormnerz",
+        "realm": "quelthalas"
+      },
+      {
+        "name": "Cazdaspaz",
+        "realm": "crushridge"
+      },
+      {
+        "name": "Twinkerrogue",
+        "realm": "dathremar"
+      }
+    ]
+  },
+  "125340": {
+    "name": "Wild Gladiator's Badge of Dominance",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 17,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Spèllßørn",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Palcrac",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Rotcrawlr",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Tezlå",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Bsmx",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Heñch",
+        "realm": "jubeithos"
+      },
+      {
+        "name": "Kirodis",
+        "realm": "dragonmaw"
+      },
+      {
+        "name": "Ebud",
+        "realm": "area-52"
+      },
+      {
+        "name": "Sorzyn",
+        "realm": "malganis"
+      },
+      {
+        "name": "Azynron",
+        "realm": "malganis"
+      },
+      {
+        "name": "Promiscua",
+        "realm": "mannoroth"
+      },
+      {
+        "name": "Shaldokahn",
+        "realm": "eredar"
+      },
+      {
+        "name": "Beavy",
+        "realm": "nazjatar"
+      },
+      {
+        "name": "Saintdad",
+        "realm": "drakkari"
+      },
+      {
+        "name": "Darkthyx",
+        "realm": "quelthalas"
+      },
+      {
+        "name": "Schreez",
+        "realm": "bonechewer"
+      },
+      {
+        "name": "Mallyxa",
+        "realm": "agamaggan"
+      }
+    ]
+  },
+  "125341": {
+    "name": "Wild Gladiator's Insignia of Dominance",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 27,
+    "slot": "trinket2",
+    "owners": [
+      {
+        "name": "Spèllßørn",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Bradalexandr",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Xiuhtecutli",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Albo",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Veñusuar",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Chriskyle",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Luë",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Smâlljohnson",
+        "realm": "korgath"
+      },
+      {
+        "name": "Redmecon",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Enculé",
+        "realm": "blackrock"
+      },
+      {
+        "name": "Hénch",
+        "realm": "jubeithos"
+      },
+      {
+        "name": "Allzpark",
+        "realm": "dragonmaw"
+      },
+      {
+        "name": "Chééky",
+        "realm": "arthas"
+      },
+      {
+        "name": "Rafíki",
+        "realm": "arthas"
+      },
+      {
+        "name": "Kazane",
+        "realm": "azralon"
+      },
+      {
+        "name": "Limaüm",
+        "realm": "azralon"
+      },
+      {
+        "name": "Umbasa",
+        "realm": "aerie-peak"
+      },
+      {
+        "name": "Elitist",
+        "realm": "skullcrusher"
+      },
+      {
+        "name": "Rødebøy",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Tigresilver",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Fädel",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Fále",
+        "realm": "lightnings-blade"
+      },
+      {
+        "name": "Dashièt",
+        "realm": "lightnings-blade"
+      },
+      {
+        "name": "Nìneoneone",
+        "realm": "bonechewer"
+      },
+      {
+        "name": "Eldertroll",
+        "realm": "boulderfist"
+      },
+      {
+        "name": "Ibetrolling",
+        "realm": "misha"
+      },
+      {
+        "name": "Garshaw",
+        "realm": "dalaran"
+      }
+    ]
+  },
+  "125342": {
+    "name": "Wild Gladiator's Medallion of Tenacity",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 3,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Shedia",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Okananas",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Littlesquint",
+        "realm": "darkspear"
+      }
+    ]
+  },
+  "125344": {
+    "name": "Wild Gladiator's Badge of Victory",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 11,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Scumdk",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Zacknafeîn",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Glaide",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Lifeforever",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Dkqt",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Apologetics",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Darkofdk",
+        "realm": "illidan"
+      },
+      {
+        "name": "Oidepipe",
+        "realm": "azralon"
+      },
+      {
+        "name": "Minho",
+        "realm": "baelgun"
+      },
+      {
+        "name": "Nerfmepls",
+        "realm": "auchindoun"
+      },
+      {
+        "name": "Desmadre",
+        "realm": "dalaran"
+      }
+    ]
+  },
+  "125345": {
+    "name": "Wild Gladiator's Insignia of Victory",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 8,
+    "slot": "trinket2",
+    "owners": [
+      {
+        "name": "Sappykawk",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Stouty",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Dkqt",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Apologetics",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Youngßlood",
+        "realm": "deathwing"
+      },
+      {
+        "name": "Merked",
+        "realm": "the-venture-co"
+      },
+      {
+        "name": "Desmadre",
+        "realm": "dalaran"
+      },
+      {
+        "name": "Altorus",
+        "realm": "velen"
+      }
+    ]
+  },
+  "125346": {
+    "name": "Wild Gladiator's Badge of Adaptation",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 21,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Phasis",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Nomercylol",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Stabralevine",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Pereza",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Veñusuar",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Furalocked",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Ætreyu",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Saptown",
+        "realm": "blackrock"
+      },
+      {
+        "name": "Offkiller",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Smokescones",
+        "realm": "barthilas"
+      },
+      {
+        "name": "Darkpeso",
+        "realm": "malganis"
+      },
+      {
+        "name": "Alcaapwn",
+        "realm": "eredar"
+      },
+      {
+        "name": "Vintage",
+        "realm": "khaz-modan"
+      },
+      {
+        "name": "Runette",
+        "realm": "caelestrasz"
+      },
+      {
+        "name": "Orenbox",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Grenan",
+        "realm": "drakkari"
+      },
+      {
+        "name": "Vinex",
+        "realm": "blood-furnace"
+      },
+      {
+        "name": "Smokebombpot",
+        "realm": "bonechewer"
+      },
+      {
+        "name": "Magiijuana",
+        "realm": "bonechewer"
+      },
+      {
+        "name": "Legomyegolas",
+        "realm": "windrunner"
+      },
+      {
+        "name": "Jimjamjuju",
+        "realm": "kul-tiras"
+      }
+    ]
+  },
+  "125347": {
+    "name": "Wild Gladiator's Accolade of Conquest",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 12,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Pökey",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Sapper",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Vietnamesez",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Stabralevine",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Cärøll",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Stabinyoface",
+        "realm": "andorhal"
+      },
+      {
+        "name": "Zuldahn",
+        "realm": "skullcrusher"
+      },
+      {
+        "name": "Lej",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Ermåc",
+        "realm": "bloodscalp"
+      },
+      {
+        "name": "Bootystabs",
+        "realm": "garona"
+      },
+      {
+        "name": "Ragefacé",
+        "realm": "boulderfist"
+      },
+      {
+        "name": "Drìden",
+        "realm": "jaedenar"
+      }
+    ]
+  },
+  "125348": {
+    "name": "Wild Gladiator's Accolade of Dominance",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 30,
+    "slot": "trinket2",
+    "owners": [
+      {
+        "name": "Phewmeup",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Guernz",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Dunkzillaz",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Elchapito",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Killydagroup",
+        "realm": "bloodhoof"
+      },
+      {
+        "name": "Bispery",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Finnmitten",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Jj",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Rickysplits",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Kallispian",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Thisdotsforu",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Psyonsto",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Infernalpain",
+        "realm": "illidan"
+      },
+      {
+        "name": "Heñch",
+        "realm": "jubeithos"
+      },
+      {
+        "name": "Liferuiner",
+        "realm": "malganis"
+      },
+      {
+        "name": "Azzaz",
+        "realm": "malganis"
+      },
+      {
+        "name": "Kimak",
+        "realm": "azralon"
+      },
+      {
+        "name": "Supersmoked",
+        "realm": "zuluhed"
+      },
+      {
+        "name": "Emrok",
+        "realm": "warsong"
+      },
+      {
+        "name": "Nogo",
+        "realm": "chogall"
+      },
+      {
+        "name": "Blizzkittie",
+        "realm": "archimonde"
+      },
+      {
+        "name": "Lockslip",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Flumê",
+        "realm": "thaurissan"
+      },
+      {
+        "name": "Sukdeez",
+        "realm": "bloodscalp"
+      },
+      {
+        "name": "Tolvarin",
+        "realm": "quelthalas"
+      },
+      {
+        "name": "Sávi",
+        "realm": "turalyon"
+      },
+      {
+        "name": "Schreez",
+        "realm": "bonechewer"
+      },
+      {
+        "name": "Hethorn",
+        "realm": "boulderfist"
+      },
+      {
+        "name": "Coher",
+        "realm": "fizzcrank"
+      },
+      {
+        "name": "Dátpriest",
+        "realm": "hyjal"
+      }
+    ]
+  },
+  "125349": {
+    "name": "Wild Gladiator's Accolade of Victory",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 14,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Nekura",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Megacolon",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Mahnruuck",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Dolor",
+        "realm": "illidan"
+      },
+      {
+        "name": "Lianyte",
+        "realm": "sargeras"
+      },
+      {
+        "name": "Dîrtydeeds",
+        "realm": "blackrock"
+      },
+      {
+        "name": "Vastcore",
+        "realm": "barthilas"
+      },
+      {
+        "name": "Sleezyx",
+        "realm": "malganis"
+      },
+      {
+        "name": "Zerølimitz",
+        "realm": "arthas"
+      },
+      {
+        "name": "Hyldor",
+        "realm": "azralon"
+      },
+      {
+        "name": "Minho",
+        "realm": "baelgun"
+      },
+      {
+        "name": "Zenix",
+        "realm": "mugthol"
+      },
+      {
+        "name": "Notbáck",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Grimknightt",
+        "realm": "khazgoroth"
+      }
+    ]
+  },
+  "125350": {
+    "name": "Wild Gladiator's Accolade of Meditation",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 31,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Rattpack",
+        "realm": "frostmourne"
+      },
+      {
+        "name": "Celepal",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Mentalmalice",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Airez",
+        "realm": "emerald-dream"
+      },
+      {
+        "name": "Kronshealer",
+        "realm": "darkspear"
+      },
+      {
+        "name": "Orenjijusu",
+        "realm": "bleeding-hollow"
+      },
+      {
+        "name": "Djsoulreaper",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Kallisan",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Tanza",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Brewtality",
+        "realm": "korgath"
+      },
+      {
+        "name": "Ririchiyo",
+        "realm": "deathwing"
+      },
+      {
+        "name": "Hotpotatoe",
+        "realm": "stormreaver"
+      },
+      {
+        "name": "ßöô",
+        "realm": "thrall"
+      },
+      {
+        "name": "Independent",
+        "realm": "blackrock"
+      },
+      {
+        "name": "Monkiinha",
+        "realm": "nemesis"
+      },
+      {
+        "name": "Õbliterate",
+        "realm": "magtheridon"
+      },
+      {
+        "name": "Pesô",
+        "realm": "malganis"
+      },
+      {
+        "name": "Jackdaddy",
+        "realm": "malganis"
+      },
+      {
+        "name": "Bobbyrotten",
+        "realm": "malganis"
+      },
+      {
+        "name": "Zethlahr",
+        "realm": "the-venture-co"
+      },
+      {
+        "name": "Mysteryo",
+        "realm": "azralon"
+      },
+      {
+        "name": "Cggc",
+        "realm": "azralon"
+      },
+      {
+        "name": "Tato",
+        "realm": "azralon"
+      },
+      {
+        "name": "Dfz",
+        "realm": "mannoroth"
+      },
+      {
+        "name": "Jágang",
+        "realm": "draenor"
+      },
+      {
+        "name": "Adelicia",
+        "realm": "zuluhed"
+      },
+      {
+        "name": "Fattyj",
+        "realm": "archimonde"
+      },
+      {
+        "name": "Sqiudgybits",
+        "realm": "thaurissan"
+      },
+      {
+        "name": "Luminati",
+        "realm": "quelthalas"
+      },
+      {
+        "name": "Alejandrö",
+        "realm": "quelthalas"
+      },
+      {
+        "name": "Peelthedk",
+        "realm": "boulderfist"
+      }
+    ]
+  },
+  "125351": {
+    "name": "Wild Gladiator's Accolade of Endurance",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 1,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Altorus",
+        "realm": "velen"
+      }
+    ]
+  },
+  "127123": {
+    "name": "Wild Gladiator's Medallion of Adaptation",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 9,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Footloverx",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Saibotc",
+        "realm": "tichondrius"
+      },
+      {
+        "name": "Zearz",
+        "realm": "kiljaeden"
+      },
+      {
+        "name": "Hekshock",
+        "realm": "stormrage"
+      },
+      {
+        "name": "Ballerqt",
+        "realm": "frostmane"
+      },
+      {
+        "name": "Lolcàt",
+        "realm": "uldaman"
+      },
+      {
+        "name": "Freydis",
+        "realm": "ragnaros"
+      },
+      {
+        "name": "Taiis",
+        "realm": "earthen-ring"
+      },
+      {
+        "name": "Phenomenon",
+        "realm": "scarlet-crusade"
+      }
+    ]
+  },
+  "127124": {
+    "name": "Wild Gladiator's Medallion of Cruelty",
+    "quality": 4,
+    "itemLevel": 700,
+    "count": 1,
+    "slot": "trinket1",
+    "owners": [
+      {
+        "name": "Chillwind",
+        "realm": "drakkari"
+      }
+    ]
+  }
+}

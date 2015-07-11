@@ -67,7 +67,7 @@ function processResponse( response, onSuccess, onError ) {
 
   }
   else {
-    onError(http.STATUS_CODES[status] + ': ' + JSON.stringify(response));
+    onError(http.STATUS_CODES[status] + ': ' + response);
   }
 }
 //////////////////////////////////////////////////////////////
@@ -175,17 +175,17 @@ var bracket = 'rbg';
 // );
 
 
-// wow.getCharacterItems(
-//   'emerald-dream',
-//   'ojbect',
-//   function (data) {
+wow.getCharacterItems(
+  'tichondrius',
+  querystring.escape('Restogød'),
+  function (data) {
 
-//     saveToFile('object.json', data);
-//   },
-//   function (error) {
-//     console.error(error);
-//   }
-// );
+    console.log('object.json', data);
+  },
+  function (error) {
+    console.error(error);
+  }
+);
 
 
 // wow.getItem(
