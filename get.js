@@ -18,27 +18,39 @@ var saveToFile = function (filePath, data) {
   );
 }
 
+var bracket = 'rbg';
 
-wow.getLeaderboards(
-  '2v2',
+// wow.getLeaderboards(
+//   bracket,
+//   function (data) {
+//     saveToFile(bracket + '.json', data);
+//   },
+//   function (error) {
+//     console.error(error);
+//   }
+// );
+
+
+// wow.getCharacterItems(
+//   'emerald-dream',
+//   'ojbect',
+//   function (data) {
+
+//     saveToFile('object.json', data);
+//   },
+//   function (error) {
+//     console.error(error);
+//   }
+// );
+
+
+wow.getItem(
+  '115576',
   function (data) {
-    saveToFile('2v2.json', data);
+    console.log(data);
   },
   function (error) {
     console.error(error);
-  }
-);
-
-
-wow.getCharacterItems(
-  'emerald-dream',
-  'ojbect',
-  function (data) {
-
-    saveToFile('object.json', data);
   },
-  function (error) {
-    console.error(error);
-  }
-);
-
+  'raid-heroic'
+)

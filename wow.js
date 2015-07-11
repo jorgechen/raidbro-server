@@ -6,6 +6,8 @@ var DOMAIN = 'us.api.battle.net';
 
 var WowApi = {};
 
+//TODO total calls allowed is 100/sec so we have to cap requests by time
+
 WowApi.get = function (path, onSuccess, onError, arguments) {
 
   arguments = arguments || {};
@@ -65,7 +67,49 @@ function processResponse( response, onSuccess, onError ) {
      onError(status + ': ' + http.STATUS_CODES[status]);
   }
 }
+//////////////////////////////////////////////////////////////
+// CHARACTERS
 
+WowApi.linkCharacter = function (realm, characterName, region) {
+  var domain = 'battle.net/wow/en';
+  if (region) {
+    domain = region + '.' + domain;
+  }
+  var path = '/character/' + realm + '/' + characterName + '/advanced'
+  return domain + path;
+}
+
+WowApi.getCharacter = function (realm, characterName, onSuccess, onError, field) {
+
+  WowApi.get(
+    '/character/' + realm + '/' + characterName,
+    onSuccess,
+    onError,
+    { fields: field }
+  );
+}
+
+WowApi.getCharacterItems = function (realm, characterName, onSuccess, onError) {
+  WowApi.getCharacter(realm, characterName, onSuccess, onError, 'items');
+}
+//////////////////////////////////////////////////////////////
+// ITEMS
+
+/**
+ * @example /wow/item/:itemid/:context
+ * @param   context  e.g. raid-normal, raid-heroic, raid-mythic
+ */
+WowApi.getItem = function (itemId, onSuccess, onError, context) {
+  context = context ? '/' + context : '';
+  WowApi.get(
+    '/item/' + itemId + context,
+    onSuccess,
+    onError
+  );
+}
+
+//////////////////////////////////////////////////////////////
+// PVP
 
 WowApi.BRACKETS = ['2v2', '3v3', '5v5', 'rbg'];
 /**
@@ -86,19 +130,11 @@ WowApi.getLeaderboards = function (bracket, onSuccess, onError) {
   }
 }
 
-WowApi.getCharacter = function (realm, characterName, onSuccess, onError, field) {
-
-  WowApi.get(
-    '/character/' + realm + '/' + characterName,
-    onSuccess,
-    onError,
-    { 'fields': field }
-  );
-}
-
-WowApi.getCharacterItems = function (realm, characterName, onSuccess, onError) {
-  WowApi.getCharacter(realm, characterName, onSuccess, onError, 'items');
-}
-
+//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
 
 module.exports = WowApi;
