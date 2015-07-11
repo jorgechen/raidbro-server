@@ -1,3 +1,6 @@
+// This is some functions that wrap around the Battle.net API,
+// but we will save time with require('battlenet-api')
+
 var http = require('http');
 var https = require('https');
 var querystring = require('querystring');
@@ -8,13 +11,13 @@ var WowApi = {};
 
 //TODO total calls allowed is 100/sec so we have to cap requests by time
 
-WowApi.get = function (path, onSuccess, onError, arguments) {
+WowApi.get = function (path, onSuccess, onError, args) {
 
-  arguments = arguments || {};
-  arguments.apikey = API_KEY;
-  arguments.locale = 'en_US';
+  args = args || {};
+  args.apikey = API_KEY;
+  args.locale = 'en_US';
 
-  var fullPath = '/wow' + path + '?' + querystring.stringify(arguments);
+  var fullPath = '/wow' + path + '?' + querystring.stringify(args);
 
   console.log(fullPath)
 
@@ -27,8 +30,8 @@ WowApi.get = function (path, onSuccess, onError, arguments) {
 
   var request = https.request(
     options,
-    function (data) {
-      processResponse(data, onSuccess, onError);
+    function (response) {
+      processResponse(response, onSuccess, onError);
     }
   );
 
@@ -64,7 +67,7 @@ function processResponse( response, onSuccess, onError ) {
 
   }
   else {
-     onError(status + ': ' + http.STATUS_CODES[status]);
+    onError(http.STATUS_CODES[status] + ': ' + JSON.stringify(response));
   }
 }
 //////////////////////////////////////////////////////////////
@@ -138,3 +141,61 @@ WowApi.getLeaderboards = function (bracket, onSuccess, onError) {
 //////////////////////////////////////////////////////////////
 
 module.exports = WowApi;
+
+
+
+// TEST CODE
+var wow = require('./wow');
+
+var saveToFile = function (filePath, data) {
+  fs.writeFile(
+    filePath,
+    JSON.stringify(data, null, 2),
+    function(error) {
+      if (error) {
+        console.error(error);
+      }
+      else {
+        console.log('Saved ' + filePath);
+      }
+    }
+  );
+}
+
+var bracket = 'rbg';
+
+// wow.getLeaderboards(
+//   bracket,
+//   function (data) {
+//     saveToFile(bracket + '.json', data);
+//   },
+//   function (error) {
+//     console.error(error);
+//   }
+// );
+
+
+// wow.getCharacterItems(
+//   'emerald-dream',
+//   'ojbect',
+//   function (data) {
+
+//     saveToFile('object.json', data);
+//   },
+//   function (error) {
+//     console.error(error);
+//   }
+// );
+
+
+// wow.getItem(
+//   '115576',
+//   function (data) {
+//     console.log(data);
+//   },
+//   function (error) {
+//     console.error(error);
+//   },
+//   'raid-heroic'
+// )
+

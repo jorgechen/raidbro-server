@@ -2,35 +2,10 @@ let React = require('react');
 let mui = require('material-ui');
 let Table = mui.Table;
 
-let async = require('async');
-let bnet = require('battlenet-api')();
-
 
 let Chart = React.createClass({
-  getInitialState: function() {
-    // Get the list of characters
-
-    async.waterfall(
-      [
-        function getTopRbgCharacters(finishCallback) {
-          var characters = [];
-          finishCallback(null, characters);
-        },
-      ],
-      function (error, result) {
-
-      }
-    );
-
-
-    // Get the items of each character
-
-
-    // Count up all the items
-
-
-
-    let rowData = [
+  getInitialState: function(rowData) {
+    rowData = rowData || [
       {selected: true, id: {content: '1'}, name: {content: 'John Smith'}, status: {content: 'Employed'}},
       {id: {content: '2'}, name: {content: 'Randal White'}, status: {content: 'Unemployed'}},
       {selected: true, id: {content: '3'}, name: {content: 'Stephanie Sanders'}, status: {content: 'Employed'}},
@@ -40,10 +15,8 @@ let Chart = React.createClass({
       {id: {content: '7'}, name: {content: 'Adam Moore'}, status: {content: 'Employed'}},
       {id: {content: '8'}, name: {content: 'Robert Brown'}, status: {content: 'Employed'}},
       {id: {content: '9'}, name: {content: 'Elizabeth Stevenson'}, status: {content: 'Employed'}},
-      {id: {content: '10'}, name: {content: 'Zachary Dobb'}, status: {content: 'Employed'}},
       {id: {content: '11'}, name: {content: 'Zachary Dobb'}, status: {content: 'Employed'}}
     ];
-
 
     // this.state
     return {
@@ -60,6 +33,8 @@ let Chart = React.createClass({
     };
   },
 
+  componentDidMount: function () {
+  },
 
   render: function() {
     // Column configuration
@@ -99,6 +74,10 @@ let Chart = React.createClass({
         onRowSelection={this._onRowSelection} />
     );
   },
+
+  _onRowSelection: function() {
+    //todo
+  }
 
 });
 
