@@ -23,7 +23,7 @@ let Chart = React.createClass({
   componentDidMount: function () {
 
     // Load the actual data
-    let data = require('../../../warlords-s2-conquest.json');
+    let data = require('../warlords-s2-conquest.json');
 
     var rowData = [];
 
