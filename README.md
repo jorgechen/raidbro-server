@@ -33,3 +33,5 @@ A useful repository that explains how many of gulp's features work and contains 
 # Reference
 
 Community made tools http://us.battle.net/en/forum/topic/14729973498
+
+Wowhead linking http://www.wowhead.com/tooltips
