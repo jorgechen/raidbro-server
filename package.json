@@ -2,16 +2,10 @@
   "main": "app.js",
   "name": "RaidBro",
   "version": "0.0.0",
-  "description": "Sample project that uses material-ui",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/callemall/material-ui.git"
-  },
   "scripts": {
-    "watch": "watchify app.js -o public/js/bundle.js -v",
-    "browserify": "browserify app.js | uglifyjs > public/js/bundle.js",
-    "build": "npm run browserify ",
-    "start": "npm install"
+    "watch": "watchify components/main.jsx -o app.js -v",
+    "build": "browserify components/main.jsx -o app.js",
+    "start": "npm run watch & nodemon server.js"
   },
   "devDependencies": {
     "babelify": "^6.1.2",

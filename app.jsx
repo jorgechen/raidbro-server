@@ -1,10 +1,14 @@
+/** @jsx React.DOM */
+
 (function () {
-  let React = require('react/addons');
-  let injectTapEventPlugin = require('react-tap-event-plugin');
-  let Main = require('./components/main.jsx'); // Our custom react component
+  var React = require('react/addons');
+  var injectTapEventPlugin = require('react-tap-event-plugin');
+  var Main = require('./components/main.jsx'); // Our custom react component
 
   //Needed for React Developer Tools
-  window.React = React;
+  if ("undefined" !== typeof window) {
+    window.React = React;
+  }
 
   //Needed for onTouchTap
   //Can go away when react 1.0 release
@@ -14,6 +18,6 @@
 
   // Render the main app react component into the document body.
   // For more details see: https://facebook.github.io/react/docs/top-level-api.html#react.render
-  React.render(<Main />, document.body);
+  React.render(React.createElement(Main), document.body);
 
 })();

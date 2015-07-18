@@ -1,24 +1,37 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <title>RaidBro</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>React Tweets</title>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <meta name="description" content="RaidBro helps World of Warcraft players and guilds find and manage their guild information, gather stats, and make their WoW raiding life easier and more convenient.">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
 
     {{{ body }}}
 
-    <footer>
-      <a class="link-back" title="Learning React: Building A Real-Time Node and React Application" href="http://scotch.io/tutorials/javascript/learning-react-building-a-real-time-node-and-react-application">&larr; Learning React: Building A Real-Time Node and React Application</a>
-      <span class="update-message">to see the timeline update!</span>
-      <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://scotch.io/tutorials/javascript/learning-react-building-a-real-time-node-and-react-application" data-text="Learning React: Building A Real-Time Node and React Application" data-via="scotch_io" data-count="none" data-hashtags="javascript">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-    </footer>
+    <!-- This script adds the Roboto font to our project. For more detail go to this site:  http://www.google.com/fonts#UsePlace:use/Collection:Roboto:400,300,500 -->
+    <script>
+      var WebFontConfig = {
+        google: { families: [ 'Roboto:400,300,500:latin' ] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+        '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
 
-    <script src="https://cdn.socket.io/socket.io-1.1.0.js"></script>
-    <script src="js/bundle.js"></script>
+    <!-- Allows popup tooltips from Wowhead! -->
+    <script type="text/javascript" src="http://static.wowhead.com/widgets/power.js"></script>
+    <script>var wowhead_tooltips = { "colorlinks": true, "iconizelinks": true, "renamelinks": true }</script>
 
+    <script src="app.js"></script>
   </body>
 </html>
