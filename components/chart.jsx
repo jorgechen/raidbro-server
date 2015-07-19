@@ -25,6 +25,7 @@ var Chart = React.createClass({
 
   componentDidMount: function () {
 
+    //This is not getting called for some reason???
     console.log("componentDidMount")
     alert("componentDidMount")
 

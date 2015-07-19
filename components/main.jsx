@@ -3,11 +3,12 @@
 var React = require('react');
 
 var mui = require('material-ui');
+var RaisedButton = mui.RaisedButton;
+var SelectField = mui.SelectField;
+var TextField = mui.TextField;
 var ThemeManager = new mui.Styles.ThemeManager();
 var Colors = mui.Styles.Colors;
-var RaisedButton = mui.RaisedButton;
 
-var Chart = require('./chart.jsx');
 
 var Main = React.createClass({
 
@@ -19,6 +20,10 @@ var Main = React.createClass({
     return {
       muiTheme: ThemeManager.getCurrentTheme()
     };
+  },
+
+  getInitialState: function() {
+    return {regionSelectValue: 'us'}
   },
 
   componentWillMount: function () {
@@ -44,15 +49,30 @@ var Main = React.createClass({
       onTouchTap: this._handleTouchTap
     });
 
-    var chart = React.createElement(Chart);
+    // var regionSelectField = React.createElement(SelectField, {
+    //   value: 'us', //this.state.regionSelectValue,
+    //   floatingLabelText: 'Region',
+    //   hintText: 'Select the region',
+    //   menuItems: ['us', 'eu', 'cn', 'kr', 'tw']
+    // });
+
+    var guildTextField = React.createElement(TextField, {
+      hintText: 'Guild name'
+    });
+
+    var realmTextField = React.createElement(TextField, {
+      hintText: 'hint text',
+      defaultValue: 'Emerald Dream',
+      floatingLabelText: 'floatingLabelText'
+    });
 
     return (
       <div style={containerStyle}>
-
-        <h1>material-ui</h1>
-        <h2>example project</h2>
+        <h1>RaidBro</h1>
+        <h2>Find your guild</h2>
+        {guildTextField}
+        {realmTextField}
         {button}
-        {chart}
       </div>
     );
   },
