@@ -6,6 +6,9 @@ var JSX = require('node-jsx').install();
 var App = React.createFactory(require('../components/main.jsx'));
 
 
+///////////////////////////////////////////////////////////////////////
+// Home page
+///////////////////////////////////////////////////////////////////////
 router.get('/', function(req, res) {
 
   var initialGuild = {
@@ -31,12 +34,15 @@ router.get('/', function(req, res) {
   });
 });
 
+///////////////////////////////////////////////////////////////////////
+// API routes
+///////////////////////////////////////////////////////////////////////
 
-// include other routes
+router.use('/', require('./character'));
+router.use('/', require('./logs'));
+
 var GuildController = require('./guild');
-router.use('/guild', GuildController);
 router.use('/', GuildController);
-
 
 module.exports = router;
 

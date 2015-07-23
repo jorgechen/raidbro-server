@@ -70,8 +70,10 @@ function processResponse( response, onSuccess, onError ) {
     onError(http.STATUS_CODES[status] + ': ' + response);
   }
 }
+
+
 //////////////////////////////////////////////////////////////
-// CHARACTERS
+// USEFUL
 
 WowApi.linkCharacter = function (realm, characterName, region) {
   var domain = 'battle.net/wow/en';
@@ -81,6 +83,9 @@ WowApi.linkCharacter = function (realm, characterName, region) {
   var path = '/character/' + realm + '/' + characterName + '/advanced'
   return domain + path;
 }
+
+//////////////////////////////////////////////////////////////
+// CHARACTERS
 
 WowApi.getCharacter = function (realm, characterName, onSuccess, onError, field) {
 
