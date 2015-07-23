@@ -12,15 +12,17 @@ WowTime.RESET_HOUR_UTC = {
 // TODO eu at London is not verified, might be later Paris/Moscow
 
 // exact Date of the next reset day
-WowTime.nextResetDate = function (region) {
+WowTime.currentResetDate = function (region) {
 
-  var hour = WowTime.RESET_HOUR_UTC.us;
+  var hour = 0;
 
   switch (region) {
     case 'eu':
       hour = WowTime.RESET_HOUR_UTC.eu;
       break;
     //TODO kr, cn, tw
+    default:
+      hour = WowTime.RESET_HOUR_UTC.us;
   }
 
   var date = new Date();
@@ -28,15 +30,19 @@ WowTime.nextResetDate = function (region) {
 
   var dayDelta = WowTime.RESET_DAY - currentDay;
 
-  if (WowTime.RESET_DAY < currentDay) {
-    dayDelta += 7;
+  if (dayDelta > 0) {
+    dayDelta -= 7;
   }
-
-  console.log('dayDelta ' + dayDelta);
 
   date.setDate(date.getDate() + dayDelta);
   date.setUTCHours(hour, 0, 0, 0);
 
+  return date;
+}
+
+WowTime.previousResetDate = function (region, weeks) {
+  var date = WowTime.currentResetDate(region);
+  date.setDate(date.getDate() - 7 * weeks);
   return date;
 }
 

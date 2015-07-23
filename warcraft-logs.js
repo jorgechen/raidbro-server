@@ -75,18 +75,7 @@ function processResponse( response, callback ) {
  * @brief All or subset of reports for a guild,
  *        e.g. /reports/guild/nightfall/emerald-dream
  */
-WarcraftLogs.getGuildReports = function (realm, guildName, region, callback, timestampFrom, timestampTo) {
-
-  var options = {};
-
-  if ('number' === typeof timestampTo) {
-    options.start = timestampTo;
-  }
-
-  if ('number' === typeof timestampFrom) {
-    options.end = timestampFrom;
-  }
-
+WarcraftLogs.getGuildReports = function (realm, guildName, region, callback, options) {
   WarcraftLogs.get(
     '/reports/guild/' + guildName + '/' + realm + '/' + region,
     callback,
