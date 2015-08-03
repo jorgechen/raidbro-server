@@ -12,13 +12,10 @@ router.get('/reports/:region/:realm/:guild', function(request, response) {
 
   var options = {};
 
-  // number of 'weeks' within which reports should be retrieved
-  var weeks;
-  if (request.query.weeks) {
-    weeks = parseInt(request.query.weeks);
-    if (weeks && weeks > 0) {
-      options.start = WowTime.previousResetDate(region, weeks).getTime();
-    }
+  // Filters from less than X days ago
+  var daysAgo = parseInt(request.query.daysAgo);
+  if (daysAgo && 0 < daysAgo) {
+    options.start = WowTime.timestampDaysBefore(daysAgo);
   }
 
   WarcraftLogs.getGuildReports(
@@ -37,9 +34,9 @@ router.get('/reports/:region/:realm/:guild', function(request, response) {
   );
 });
 
-
+// All the fights (wipes + kills) in a single night
 router.get('/fights/:code', function(request, response) {
-  var realm = request.params.code;
+  var code = request.params.code;
 
   WarcraftLogs.getFights(
     code,

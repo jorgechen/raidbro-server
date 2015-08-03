@@ -41,9 +41,21 @@ WowTime.currentResetDate = function (region) {
 }
 
 WowTime.previousResetDate = function (region, weeks) {
+  weeks = weeks || 0;
+
   var date = WowTime.currentResetDate(region);
   date.setDate(date.getDate() - 7 * weeks);
   return date;
 }
+
+// @return timestamp of given days before now
+WowTime.timestampDaysBefore = function (days) {
+  var date = new Date();
+  date.setDate(date.getDate() - days);
+  return date.getTime();
+}
+
+
+
 
 module.exports = WowTime;
