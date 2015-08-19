@@ -31,19 +31,22 @@ router.get('/feed/:region/:realm/:name', function(request, response) {
     realm,
     name,
     function onSuccess(data) {
+      if (data.feed) {
 
-      // Filter items of the wrong type
-      if (-1 < FEED_TYPES.indexOf(filter)) {
-        data.feed = data.feed.filter(function (element) {
-          return filter === element.type;
-        });
-      }
+        // Filter items of the wrong type
+        if (-1 < FEED_TYPES.indexOf(filter)) {
+          data.feed = data.feed.filter(function (element) {
+            return filter === element.type;
+          });
+        }
 
-      // Filter items before a certain time
-      if (start) {
-        data.feed = data.feed.filter(function (element) {
-          return start < (element.timestamp);
-        });
+        // Filter items before a certain time
+        if (start) {
+          data.feed = data.feed.filter(function (element) {
+            return start < (element.timestamp);
+          });
+        }
+
       }
 
       response.json(data);
