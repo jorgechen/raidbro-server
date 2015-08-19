@@ -4,7 +4,7 @@
 var http = require('http');
 var https = require('https');
 var querystring = require('querystring');
-var API_KEY = require('./secret').BNET_API_KEY;
+var API_KEY = require('./config').BNET_API_KEY;
 var DOMAIN = 'us.api.battle.net';
 
 var WowApi = {};

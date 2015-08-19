@@ -9,10 +9,19 @@ cd <project folder>/material-ui/example
 npm install
 ```
 
+Make sure to set up secret keys.  If using Heroku, set up the environment variables with the same names from the secret file.
+
+```
+cp SECRET.example.js SECRET.js
+```
+
+
 Now you can run your local server:
 ```
 npm start
 ```
+
+
 #Description of [Gulp](https://github.com/gulpjs/gulp) Plugins
 
 

@@ -4,7 +4,7 @@ var http = require('http');
 var https = require('https');
 var querystring = require('querystring');
 
-var API_KEY = require('./secret').WARCRAFT_LOGS_API_KEY;
+var API_KEY = require('./config').WARCRAFT_LOGS_API_KEY;
 var DOMAIN = 'www.warcraftlogs.com';
 var PORT = 443;
 

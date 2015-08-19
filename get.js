@@ -1,7 +1,7 @@
 var async = require('async');
 var querystring = require('querystring');
 var fs = require('fs');
-var BNET_API_KEY = require('./secret').BNET_API_KEY;
+var BNET_API_KEY = require('./config').BNET_API_KEY;
 var bnet = require('battlenet-api')(BNET_API_KEY);
 
 var REGION = 'us';

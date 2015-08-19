@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 
-var BNET_API_KEY = require('../secret').BNET_API_KEY;
+var BNET_API_KEY = require('../config').BNET_API_KEY;
 var bnet = require('battlenet-api')(BNET_API_KEY);
 
 // TODO pull request battleapi-net to add in 'feed' argument
