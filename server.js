@@ -5,7 +5,7 @@ var http = require('http');
 
 // Create an express instance and set a port variable
 var app = express();
-var port = process.env.PORT || 8800;
+var port = process.env.PORT || 80;
 
 // Templating engine
 app.engine('handlebars', exphbs({ defaultLayout: 'main'}));
